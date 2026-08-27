@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Never use social media again",
+    "option_b": "Never watch another movie or show",
+    "percent_a": "58%",
+    "percent_b": "42%"
+  },
+  {
+    "option_a": "Be loved by everyone but poor",
+    "option_b": "Be hated by everyone but rich",
+    "percent_a": "65%",
+    "percent_b": "35%"
+  },
+  {
+    "option_a": "Be able to control water",
+    "option_b": "Be able to control fire",
+    "percent_a": "27%",
+    "percent_b": "73%"
+  },
+  {
+    "option_a": "Live in Marvel universe",
+    "option_b": "Live in Harry Potter world",
+    "percent_a": "73%",
+    "percent_b": "27%"
+  }
+]

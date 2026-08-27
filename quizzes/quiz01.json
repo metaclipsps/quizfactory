@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Have unlimited money",
+    "option_b": "Be able to teleport anywhere",
+    "percent_a": "72%",
+    "percent_b": "28%"
+  },
+  {
+    "option_a": "Always know when someone is lying",
+    "option_b": "Get away with any lie you tell",
+    "percent_a": "54%",
+    "percent_b": "46%"
+  },
+  {
+    "option_a": "Live in a luxury mansion alone",
+    "option_b": "Live in a cozy van with your soulmate",
+    "percent_a": "38%",
+    "percent_b": "62%"
+  },
+  {
+    "option_a": "Eat your favorite meal every day forever",
+    "option_b": "Never have to eat or sleep again",
+    "percent_a": "49%",
+    "percent_b": "51%"
+  }
+]

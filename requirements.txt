@@ -1,0 +1,11 @@
+# Funciona em Python 3.10, 3.11, 3.12, 3.13
+# O patch ANTIALIAS está dentro do make_quiz.py, por isso funciona com Pillow 10 e 11
+moviepy==1.0.3
+Pillow
+numpy
+edge-tts
+gTTS
+imageio-ffmpeg
+
+# Extra para bot Telegram
+python-telegram-bot==20.7

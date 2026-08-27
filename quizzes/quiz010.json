@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Have super speed",
+    "option_b": "Have super strength",
+    "percent_a": "45%",
+    "percent_b": "55%"
+  },
+  {
+    "option_a": "Have 100 million dollars right now",
+    "option_b": "Have 10 years of perfect health",
+    "percent_a": "67%",
+    "percent_b": "33%"
+  },
+  {
+    "option_a": "Have unlimited money",
+    "option_b": "Be able to teleport anywhere",
+    "percent_a": "26%",
+    "percent_b": "74%"
+  },
+  {
+    "option_a": "Live without movies",
+    "option_b": "Live without music",
+    "percent_a": "75%",
+    "percent_b": "25%"
+  }
+]

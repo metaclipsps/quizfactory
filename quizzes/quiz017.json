@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Be able to time travel to the future",
+    "option_b": "Be able to time travel to the past",
+    "percent_a": "55%",
+    "percent_b": "45%"
+  },
+  {
+    "option_a": "Live on Mars with internet",
+    "option_b": "Live on a private island without internet",
+    "percent_a": "57%",
+    "percent_b": "43%"
+  },
+  {
+    "option_a": "Have super strength",
+    "option_b": "Have super speed",
+    "percent_a": "26%",
+    "percent_b": "74%"
+  },
+  {
+    "option_a": "Always be 10 minutes early",
+    "option_b": "Always be 20 minutes late",
+    "percent_a": "39%",
+    "percent_b": "61%"
+  }
+]

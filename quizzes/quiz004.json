@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Have the ability to heal anyone",
+    "option_b": "Have the ability to bring one person back",
+    "percent_a": "26%",
+    "percent_b": "74%"
+  },
+  {
+    "option_a": "Be able to instantly master any instrument",
+    "option_b": "Be able to instantly learn any skill",
+    "percent_a": "29%",
+    "percent_b": "71%"
+  },
+  {
+    "option_a": "Be famous in real life",
+    "option_b": "Be famous on the internet",
+    "percent_a": "58%",
+    "percent_b": "42%"
+  },
+  {
+    "option_a": "Be able to time travel to the past",
+    "option_b": "Be able to time travel to the future",
+    "percent_a": "48%",
+    "percent_b": "52%"
+  }
+]

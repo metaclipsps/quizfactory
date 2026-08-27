@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Live without music",
+    "option_b": "Live without movies",
+    "percent_a": "51%",
+    "percent_b": "49%"
+  },
+  {
+    "option_a": "Live on a private island without internet",
+    "option_b": "Live on Mars with internet",
+    "percent_a": "51%",
+    "percent_b": "49%"
+  },
+  {
+    "option_a": "Never feel hot",
+    "option_b": "Never feel cold",
+    "percent_a": "59%",
+    "percent_b": "41%"
+  },
+  {
+    "option_a": "Always be 10 minutes early",
+    "option_b": "Always be 20 minutes late",
+    "percent_a": "57%",
+    "percent_b": "43%"
+  }
+]

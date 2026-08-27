@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Have a pause button for life",
+    "option_b": "Have a rewind button for life",
+    "percent_a": "55%",
+    "percent_b": "45%"
+  },
+  {
+    "option_a": "Live in a cozy van with your soulmate",
+    "option_b": "Live in a luxury mansion alone",
+    "percent_a": "40%",
+    "percent_b": "60%"
+  },
+  {
+    "option_a": "Have super strength",
+    "option_b": "Have super speed",
+    "percent_a": "52%",
+    "percent_b": "48%"
+  },
+  {
+    "option_a": "Live in Marvel universe",
+    "option_b": "Live in Harry Potter world",
+    "percent_a": "70%",
+    "percent_b": "30%"
+  }
+]

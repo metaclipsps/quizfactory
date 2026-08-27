@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Know the date of your death",
+    "option_b": "Know the cause of your death",
+    "percent_a": "69%",
+    "percent_b": "31%"
+  },
+  {
+    "option_a": "Be able to rewind time 10 seconds",
+    "option_b": "Be able to pause time",
+    "percent_a": "44%",
+    "percent_b": "56%"
+  },
+  {
+    "option_a": "Be hated by everyone but rich",
+    "option_b": "Be loved by everyone but poor",
+    "percent_a": "74%",
+    "percent_b": "26%"
+  },
+  {
+    "option_a": "Always be 20 minutes late",
+    "option_b": "Always be 10 minutes early",
+    "percent_a": "63%",
+    "percent_b": "37%"
+  }
+]

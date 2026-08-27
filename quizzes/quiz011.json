@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Have free 5-star hotels forever",
+    "option_b": "Have free first class flights forever",
+    "percent_a": "65%",
+    "percent_b": "35%"
+  },
+  {
+    "option_a": "Be able to read minds",
+    "option_b": "Be able to see the future for 10 seconds",
+    "percent_a": "62%",
+    "percent_b": "38%"
+  },
+  {
+    "option_a": "Always know when someone is lying",
+    "option_b": "Get away with any lie you tell",
+    "percent_a": "56%",
+    "percent_b": "44%"
+  },
+  {
+    "option_a": "Be loved by everyone but poor",
+    "option_b": "Be hated by everyone but rich",
+    "percent_a": "33%",
+    "percent_b": "67%"
+  }
+]

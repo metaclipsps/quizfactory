@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Never need to charge your phone",
+    "option_b": "Never need to do laundry",
+    "percent_a": "63%",
+    "percent_b": "37%"
+  },
+  {
+    "option_a": "Have $1M now",
+    "option_b": "Have $10k every month for life",
+    "percent_a": "31%",
+    "percent_b": "69%"
+  },
+  {
+    "option_a": "Be able to fly",
+    "option_b": "Be invisible",
+    "percent_a": "65%",
+    "percent_b": "35%"
+  },
+  {
+    "option_a": "Eat only burgers for a year",
+    "option_b": "Eat only pizza for a year",
+    "percent_a": "32%",
+    "percent_b": "68%"
+  }
+]

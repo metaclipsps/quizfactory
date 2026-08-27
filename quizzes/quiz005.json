@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Always be 20 minutes late",
+    "option_b": "Always be 10 minutes early",
+    "percent_a": "75%",
+    "percent_b": "25%"
+  },
+  {
+    "option_a": "Live without internet for a year",
+    "option_b": "Live without friends for a year",
+    "percent_a": "32%",
+    "percent_b": "68%"
+  },
+  {
+    "option_a": "Never watch another movie or show",
+    "option_b": "Never use social media again",
+    "percent_a": "48%",
+    "percent_b": "52%"
+  },
+  {
+    "option_a": "Live in a luxury mansion alone",
+    "option_b": "Live in a cozy van with your soulmate",
+    "percent_a": "38%",
+    "percent_b": "62%"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Have free 5-star hotels forever",
+    "option_b": "Have free first class flights forever",
+    "percent_a": "62%",
+    "percent_b": "38%"
+  },
+  {
+    "option_a": "Never need to charge your phone",
+    "option_b": "Never need to do laundry",
+    "percent_a": "29%",
+    "percent_b": "71%"
+  },
+  {
+    "option_a": "Have super speed",
+    "option_b": "Have super strength",
+    "percent_a": "51%",
+    "percent_b": "49%"
+  },
+  {
+    "option_a": "Work your dream job but have to work daily",
+    "option_b": "Never have to work again but poor",
+    "percent_a": "56%",
+    "percent_b": "44%"
+  }
+]

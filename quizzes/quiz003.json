@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Have the ability to bring one person back",
+    "option_b": "Have the ability to heal anyone",
+    "percent_a": "47%",
+    "percent_b": "53%"
+  },
+  {
+    "option_a": "Have a pause button for life",
+    "option_b": "Have a rewind button for life",
+    "percent_a": "52%",
+    "percent_b": "48%"
+  },
+  {
+    "option_a": "Never watch another movie or show",
+    "option_b": "Never use social media again",
+    "percent_a": "51%",
+    "percent_b": "49%"
+  },
+  {
+    "option_a": "Have $1M now",
+    "option_b": "Have $10k every month for life",
+    "percent_a": "35%",
+    "percent_b": "65%"
+  }
+]

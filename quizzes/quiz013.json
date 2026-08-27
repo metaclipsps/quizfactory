@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Have a rewind button for life",
+    "option_b": "Have a pause button for life",
+    "percent_a": "31%",
+    "percent_b": "69%"
+  },
+  {
+    "option_a": "Never feel pain again",
+    "option_b": "Never feel sadness again",
+    "percent_a": "58%",
+    "percent_b": "42%"
+  },
+  {
+    "option_a": "Have $1M now",
+    "option_b": "Have $10k every month for life",
+    "percent_a": "46%",
+    "percent_b": "54%"
+  },
+  {
+    "option_a": "Be able to time travel to the past",
+    "option_b": "Be able to time travel to the future",
+    "percent_a": "57%",
+    "percent_b": "43%"
+  }
+]

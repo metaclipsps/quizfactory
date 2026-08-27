@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Be hated by everyone but rich",
+    "option_b": "Be loved by everyone but poor",
+    "percent_a": "75%",
+    "percent_b": "25%"
+  },
+  {
+    "option_a": "Have unlimited money",
+    "option_b": "Be able to teleport anywhere",
+    "percent_a": "36%",
+    "percent_b": "64%"
+  },
+  {
+    "option_a": "Never feel cold",
+    "option_b": "Never feel hot",
+    "percent_a": "31%",
+    "percent_b": "69%"
+  },
+  {
+    "option_a": "Eat your favorite meal every day forever",
+    "option_b": "Never have to eat or sleep again",
+    "percent_a": "75%",
+    "percent_b": "25%"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "option_a": "Have super strength",
+    "option_b": "Have super speed",
+    "percent_a": "45%",
+    "percent_b": "55%"
+  },
+  {
+    "option_a": "Be able to talk to animals",
+    "option_b": "Be able to speak every human language",
+    "percent_a": "61%",
+    "percent_b": "39%"
+  },
+  {
+    "option_a": "Live without internet for a year",
+    "option_b": "Live without friends for a year",
+    "percent_a": "23%",
+    "percent_b": "77%"
+  },
+  {
+    "option_a": "Never use social media again",
+    "option_b": "Never watch another movie or show",
+    "percent_a": "68%",
+    "percent_b": "32%"
+  },
+  {
+    "option_a": "Be famous on the internet",
+    "option_b": "Be famous in real life",
+    "percent_a": "41%",
+    "percent_b": "59%"
+  }
+]

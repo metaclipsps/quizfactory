@@ -1,0 +1,26 @@
+[
+  {
+    "option_a": "Never be able to speak again",
+    "option_b": "Always have to say what you think",
+    "percent_a": "42%",
+    "percent_b": "58%"
+  },
+  {
+    "option_a": "Eat only burgers for a year",
+    "option_b": "Eat only pizza for a year",
+    "percent_a": "68%",
+    "percent_b": "32%"
+  },
+  {
+    "option_a": "Never need to do laundry",
+    "option_b": "Never need to charge your phone",
+    "percent_a": "43%",
+    "percent_b": "57%"
+  },
+  {
+    "option_a": "Live without internet for a year",
+    "option_b": "Live without friends for a year",
+    "percent_a": "44%",
+    "percent_b": "56%"
+  }
+]
